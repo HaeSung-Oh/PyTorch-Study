@@ -1,2 +1,3 @@
 # PyTorch-Study
-PyTorch study repo
+This reopsitory was maded for PyTorch study.
+
